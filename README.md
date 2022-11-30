@@ -1,8 +1,8 @@
 - Soy Rebeca Méndez 👋 
 - Soy una persona autodidacta e interesada en el área de  la tecnología 👀 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Actualmente me estoy formando en distantos ámbitos
+- 
+- 
 
 <!---
 mendezrebecav/mendezrebecav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
