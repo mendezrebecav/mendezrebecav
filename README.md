@@ -1,5 +1,5 @@
 - Soy Rebeca Méndez 👋 
-- Soy una persona autodidacta e interesada en el área de  la tecnología 👀 
+- Una persona autodidacta e interesada en el área de  la tecnología 👀 
 - Actualmente me estoy formando en distantos ámbitos
 - 
 - 
