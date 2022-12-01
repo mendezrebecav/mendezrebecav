@@ -1,13 +1,12 @@
 
 
-
-<h1 align="center">Hola👋, soy Rebeca Méndez</h1>
+<h1 align="center">Hola 👋, soy Rebeca Méndez</h1>
 <h3 align="center">$\color[rgb]{1,0,1}BIENVENIDO $</h3>
 
-<h4 align="center">Soy una persona autodidacta e interesada en el área de  la tecnología 👀</h4>
-<h4 align="left">Actualmente me estoy formando en distantos ámbitos 📋, 🌱 Actualmente estoy formo parte de la primera edición del Bootcamp  Mujeres en tech de Keepcoding y Glovo y támbien finalizando un curso superior en Ciberseguridad</h4>
+<h4 align="center">💬 Soy una persona autodidacta e interesada en el área de  la tecnología 👀</h4>
+<h4 align="left">Actualmente me estoy formando en distantos ámbitos 📋, 🌱 Actualmente estoy formo parte de la primera edición del Bootcamp  Mujeres en tech de Keepcoding y Glovo y támbien finalizando un curso superior en Ciberseguridad.</h4>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 👯</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rebeca-mendez-7b633a1b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rebeca-mendez-7b633a1b1/" height="30" width="40" /></a>
 <a href="https://discord.gg/Rebeca Dalila.Méndez Villegas#0306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rebeca Dalila.Méndez Villegas#0306" height="30" width="40" /></a>
