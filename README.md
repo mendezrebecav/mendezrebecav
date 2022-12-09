@@ -4,7 +4,7 @@
 <h3 align="center">$\color[rgb]{1,0,1}BIENVENIDO $</h3>
 
 <h4 align="center">💬 Soy una persona autodidacta e interesada en el área de  la tecnología 👀</h4>
-<h4 align="left">Actualmente me estoy formando en distantos ámbitos 📋, 🌱 Actualmente estoy formo parte de la primera edición del Bootcamp  Mujeres en tech de Keepcoding y Glovo y támbien finalizando un curso superior en Ciberseguridad.</h4>
+<h4 align="left">Actualmente me estoy formando en distantos ámbitos 📋, 🌱 Formo parte de la primera edición del Bootcamp  Mujeres en tech de Keepcoding y Glovo y támbien finalizando un curso superior en Ciberseguridad.</h4>
 
 <h3 align="left">Connect with me: 👯</h3>
 <p align="left">
